@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**nagxendra-codes/nagxendra-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 Hi, I'm Nagendra<br>B.Tech CSE (AI & ML) | 2nd Year Student<br>Java | Python | C<br>Learning DSA | OOP | Git & GitHub<br>Exploring AI/ML | Web Development<br>Poet | Novelist | Storywriter |<br>Looking to collaborate | Beginner-Friendly Projects<br>Goal | Become a Software Engineer<br>Fun Fact | I love building projects and learning new technologies.
 
